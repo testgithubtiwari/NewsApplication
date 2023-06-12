@@ -11,3 +11,8 @@ This is an Android App which fetch the news from the API.
 
 
 ### Some of the Screenshots from the app are:
+![WhatsApp Image 2023-06-12 at 5 00 00 PM](https://github.com/testgithubtiwari/NewsApplication/assets/111584498/1f008ea4-4b87-4e5b-874a-92481817800e)
+
+![WhatsApp Image 2023-06-12 at 4 59 59 PM](https://github.com/testgithubtiwari/NewsApplication/assets/111584498/1db4ed5e-8c5e-4750-b53b-953af1281691)
+
+
