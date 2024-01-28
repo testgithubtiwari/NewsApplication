@@ -1,18 +1,49 @@
-# NewsApplication
-This is an Android App which fetch the news from the API.
-### Overview of the App
-###### The news application I created is designed to provide users with up-to-date news content fetched from an API. The application utilizes a RecyclerView to display a list of news articles, and each item in the list shows a brief overview of the news story.
+# News App
+#### 1) An Android app designed to fetch news from an API.
+#### 2) Utilizes RecyclerView for displaying news articles.
+#### 3) Provides a brief overview of each news story in the list.
+#### 4) Allows users to view the full content of selected articles in a new activity.
 
-###### When the user clicks on a specific news article in the RecyclerView, a click listener is triggered, which opens a new activity dedicated to displaying the full content of the selected news article. This new activity provides a more comprehensive view of the news story, allowing users to read the complete article and access any related multimedia content.
+## Installation
 
-###### By utilizing an API key, the application dynamically fetches news data, ensuring that users receive the latest news updates. The RecyclerView implementation allows for efficient scrolling and navigation through the list of articles, making it easier for users to find the news they are interested in. The click listener feature enhances the user experience by providing a seamless transition from the overview to the full content of the news articles.
+```bash
+git clone https://github.com/testgithubtiwari/NewsApplication.git
+```
 
-###### Overall, the news application I developed offers a user-friendly interface for accessing news content, leveraging an API key to keep the information current and relevant. The combination of RecyclerView and click listener functionality provides a smooth and intuitive browsing experience, allowing users to explore news articles and delve deeper into the stories that interest them.
+```bash
+cd AndroidStudio
+```
+
+```bash
+gradle build
+```
+####  Run on your simulator or in physical device by tap on the run icon in Android Studio.
+
+## Usage
+
+##### 1) Offers a user-friendly interface for accessing news content.
+##### 2) Keeps information current and relevant with dynamic data fetching.
+##### 3) Provides smooth and intuitive browsing experience.
 
 
-### Some of the Screenshots from the app are:
-![done1](https://github.com/testgithubtiwari/NewsApplication/assets/111584498/6d7b1040-5520-4a33-b1aa-2935af267c53)
-![done2](https://github.com/testgithubtiwari/NewsApplication/assets/111584498/9f379dbb-8f4d-4f52-91d2-1fc78f0a214d)
+## Features
 
+##### 1) Utilizes an API key for dynamic fetching of news data.
+##### 2) Efficient scrolling and navigation through RecyclerView.
+##### 3) Click listener for seamless transition to full article view.
 
+## ScreenShots
+https://github.com/testgithubtiwari/NewsApplication/assets/111584498/6d7b1040-5520-4a33-b1aa-2935af267c53
 
+https://github.com/testgithubtiwari/NewsApplication/assets/111584498/9f379dbb-8f4d-4f52-91d2-1fc78f0a214d
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
