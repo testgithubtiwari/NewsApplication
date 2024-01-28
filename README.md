@@ -32,10 +32,6 @@ gradle build
 ##### 2) Efficient scrolling and navigation through RecyclerView.
 ##### 3) Click listener for seamless transition to full article view.
 
-## ScreenShots
-https://github.com/testgithubtiwari/NewsApplication/assets/111584498/6d7b1040-5520-4a33-b1aa-2935af267c53
-
-https://github.com/testgithubtiwari/NewsApplication/assets/111584498/9f379dbb-8f4d-4f52-91d2-1fc78f0a214d
 
 ## Contributing
 
